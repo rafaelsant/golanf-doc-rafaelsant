@@ -1,5 +1,6 @@
 | Date | repository | Deployer | version |
 |------|------------|----------|---------|
+|03/09/2023 11:59:37|um-grande-teste|rafaelsant|v2.0.0|
 |03/09/2023 14:56:36|um-grande-teste|rafaelsant|1.0.0|
 |03/09/2023 14:56:32|um-grande-teste|rafaelsant|1.0.0|
 |03/09/2023 14:56:27|um-grande-teste|rafaelsant|1.0.0|
